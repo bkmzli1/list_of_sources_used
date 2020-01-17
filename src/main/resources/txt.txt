@@ -1,0 +1,5 @@
+https://mvnrepository.com/artifact/org.jsoup/jsoup/1.12.1
+https://javarush.ru/groups/posts/2007-legkiy-parsing-html-s-pomojshjhju-jsoup
+https://riptutorial.com/ru/jsoup
+https://www.baeldung.com/java-with-jsoup
+https://issue.life/questions/51050365
